@@ -2,6 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Ketsia Iragena](https://github.com/Ketsia-a/hello-world)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
